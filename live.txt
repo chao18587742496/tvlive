@@ -195,6 +195,11 @@ CCTV5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/i
 黑龙江卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000025203/1.m3u8?channel-id=bestzb&Contentid=5000000004000025203&livemode=1&stbId=3
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226327/index.m3u8
 
+延安综合，http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8
+
+延安公共,
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8
+
 央视高清,#genre#
 
 CCTV1,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
